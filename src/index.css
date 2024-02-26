@@ -1,5 +1,3 @@
-
-
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -13,39 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-.navbar{
-  padding: 15px;
-  display: flex;
-  justify-content: space-between;
-  background-color: #34C94B;
-  align-items: center;
-}
-.search {
-  border: 1px solid black;
-  padding: 0.7em;
-  border-radius: 5px;
-  width: 30%;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  background-color: white;
-}
-.search-input {
-  outline: none;
-  border: none;
-  width: 80%;
-}
-
-.Feedback-btn {
-  background-color: var(--secondary-color);
-  color: var(--primary-color);
-  border-radius: 14px;
-  padding: 10px 14px;
-  font-family: "Poppins", sans-serif;
-  font-weight: 600;
-  font-style: normal;
-  cursor: pointer;
-}
-
-
